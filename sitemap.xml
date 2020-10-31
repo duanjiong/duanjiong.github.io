@@ -2,8 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/posts/first_post/</loc><lastmod>2020-11-01T00:01:53&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/posts/</loc><lastmod>2020-11-01T00:01:53&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/</loc><lastmod>2020-11-01T00:01:53&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/categories/</loc></url><url>
-            <loc>http://example.org/tags/</loc></url></urlset>
+            <loc>http://blog.akiraka.work/</loc><lastmod>2020-11-01T00:01:53&#43;08:00</lastmod></url><url>
+            <loc>http://blog.akiraka.work/posts/first_post/</loc><lastmod>2020-11-01T00:01:53&#43;08:00</lastmod></url><url>
+            <loc>http://blog.akiraka.work/posts/</loc><lastmod>2020-11-01T00:01:53&#43;08:00</lastmod></url><url>
+            <loc>http://blog.akiraka.work/categories/</loc></url><url>
+            <loc>http://blog.akiraka.work/tags/</loc></url></urlset>
